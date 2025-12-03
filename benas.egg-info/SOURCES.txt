@@ -1,9 +1,0 @@
-README.md
-setup.py
-benas/__init__.py
-benas/operations.py
-benas.egg-info/PKG-INFO
-benas.egg-info/SOURCES.txt
-benas.egg-info/dependency_links.txt
-benas.egg-info/requires.txt
-benas.egg-info/top_level.txt
